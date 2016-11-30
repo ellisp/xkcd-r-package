@@ -1,0 +1,15 @@
+# -*- mode: org ; ispell-local-dictionary: "british" -*-  
+
+
+* xkcd 0.0.5
+
+** External
+
+- DESCRIPTION: Title field in title case
+- change NEWS file
+
+** Internal
+
+- ggplot 2.0 does not like ... I disable this option in xkcdline
+
+
